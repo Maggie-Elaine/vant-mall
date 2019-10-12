@@ -1,0 +1,18 @@
+[
+    {"img":"../images/category/fl01.png","id":1,"title":"手机"},
+    {"img":"../images/category/fl02.png","id":1,"title":"耳机"},
+    {"img":"../images/category/fl03.png","id":1,"title":"华为"},
+    {"img":"../images/category/fl04.png","id":1,"title":"电饭煲"},
+    {"img":"../images/category/fl05.png","id":1,"title":"电磁炉"},
+    {"img":"../images/category/fl06.png","id":1,"title":"路由器"},
+    {"img":"../images/category/fl07.png","id":1,"title":"避孕套"},
+    {"img":"../images/category/fl08.png","id":1,"title":"口红"},
+    {"img":"../images/category/fl09.png","id":1,"title":"吹风机"},
+    {"img":"../images/category/fl10.png","id":1,"title":"三只松鼠"},
+    {"img":"../images/category/fl11.png","id":1,"title":"洗衣液"},
+    {"img":"../images/category/fl12.png","id":1,"title":"保温杯"},
+    {"img":"../images/category/fl13.png","id":1,"title":"微波炉"},
+    {"img":"../images/category/fl14.png","id":1,"title":"洗发水"},
+    {"img":"../images/category/fl15.png","id":1,"title":"卫生巾"}
+
+]

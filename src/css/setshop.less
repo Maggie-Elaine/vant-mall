@@ -1,0 +1,31 @@
+//自定义样式
+.ptHeight(@h: @tbHeight) {
+    padding-top: @h;
+    height: calc(~'100% - @{h}');
+}
+
+.borderBottom() {
+    border-bottom: 1px solid #dfdfdf;
+}
+
+.gap(@h:10px) {
+    //间隙条
+    .gap {
+        height: @h;
+        width: 100%;
+        background-color: @grey;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+}
+
+.gapRound() {
+    //圆的间隙条
+    .gap_round {
+        height: 37px;
+        background-color: @yellow;
+        border-bottom-right-radius: 50% !important;
+        border-bottom-left-radius: 50% !important;
+        background: linear-gradient(90deg, @orange, @yellow);
+    }
+}

@@ -1,0 +1,12 @@
+[
+    {"img":"../images/ms01.jpg","id":"1","oldPrice":99,"newPrice":99},
+    {"img":"../images/ms02.jpg","id":"2","oldPrice":99,"newPrice":99},
+    {"img":"../images/ms03.jpg","id":"3","oldPrice":99,"newPrice":99},
+    {"img":"../images/ms04.jpg","id":"4","oldPrice":99,"newPrice":99},
+    {"img":"../images/ms05.jpg","id":"5","oldPrice":99,"newPrice":99},
+    {"img":"../images/ms06.jpg","id":"6","oldPrice":99,"newPrice":99},
+    {"img":"../images/ms07.jpg","id":"7","oldPrice":99,"newPrice":99},
+    {"img":"../images/ms07.jpg","id":"8","oldPrice":99,"newPrice":99},
+    {"img":"../images/ms07.jpg","id":"9","oldPrice":99,"newPrice":99},
+    {"img":"../images/ms07.jpg","id":"10","oldPrice":99,"newPrice":99}
+]

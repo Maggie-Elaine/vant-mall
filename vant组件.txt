@@ -1,0 +1,82 @@
+//所用到vant组件 应该全了?
+
+import { Icon } from 'vant';
+Vue.use(Icon);
+
+import { Search } from 'vant';
+Vue.use(Search);
+
+import { NavBar } from 'vant';
+Vue.use(NavBar);
+
+import { Swipe, SwipeItem } from 'vant';
+Vue.use(Swipe).use(SwipeItem);
+
+import { Image } from 'vant';
+Vue.use(Image);
+
+import { Grid, GridItem } from 'vant';
+Vue.use(Grid).use(GridItem);
+
+import { CountDown } from 'vant';
+Vue.use(CountDown);
+
+import { List } from 'vant';
+Vue.use(List);
+
+import { Lazyload } from 'vant';
+Vue.use(Lazyload);
+
+import { TreeSelect } from 'vant';
+Vue.use(TreeSelect);
+
+import { Divider } from 'vant';
+Vue.use(Divider);
+
+import { Field } from 'vant';
+Vue.use(Field);
+
+import { DropdownMenu, DropdownItem } from 'vant';
+Vue.use(DropdownMenu).use(DropdownItem);
+
+import { Checkbox, CheckboxGroup } from 'vant';
+Vue.use(Checkbox).use(CheckboxGroup);
+
+import { ImagePreview } from 'vant';
+Vue.use(ImagePreview);
+
+import { Tag } from 'vant';
+Vue.use(Tag);
+
+import { Panel } from 'vant';
+Vue.use(Panel);
+
+import { Sku } from 'vant';
+Vue.use(Sku);
+
+import { Area } from 'vant';
+Vue.use(Area);
+
+
+import { ActionSheet } from 'vant';
+Vue.use(ActionSheet);
+
+import {
+  GoodsAction,
+  GoodsActionIcon,
+  GoodsActionButton
+} from 'vant';
+Vue
+  .use(GoodsAction)
+  .use(GoodsActionIcon)
+  .use(GoodsActionButton);
+
+import { SubmitBar } from 'vant';
+Vue.use(SubmitBar);
+
+import { Card } from 'vant';
+Vue.use(Card);
+
+import { Stepper } from 'vant';
+Vue.use(Stepper);
+

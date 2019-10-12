@@ -1,0 +1,36 @@
+{
+  "name": "shop-vue-wp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --port 8080"
+  },
+  "keywords": [],
+  "author": "Maggie",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-import": "^1.12.2",
+    "css-loader": "^3.2.0",
+    "file-loader": "^4.2.0",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.0.0",
+    "style-resources-loader": "^1.2.1",
+    "url-loader": "^2.2.0",
+    "vue-loader": "^15.7.1",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.32.2",
+    "webpack-dev-server": "^3.8.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "vant": "^2.2.5",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vuex": "^3.1.1"
+  }
+}
