@@ -14,7 +14,7 @@
 npm i
 npm run dev
 ```  
-由于部分原因,package.json是后面手敲的,应该没错  
+详细可以看代码注释,由于部分原因,package.json是后面手敲的,应该没错  
 
 ---
 
