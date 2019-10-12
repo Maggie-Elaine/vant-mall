@@ -1,10 +1,10 @@
 # 仿京东商城  
 ## 组件  
-+vant  
-+axios  
-+vue  
-+vuex  
-+vue-router  
++ vant  
++ axios  
++ vue  
++ vuex  
++ vue-router  
 ---  
 ##运行开发环境##  
   
