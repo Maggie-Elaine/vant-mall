@@ -14,6 +14,7 @@
 npm i
 npm run dev
 ```  
+访问 http://localhost:8080  
 详细可以看代码注释,由于部分原因,package.json是后面手敲的,应该没错  
 
 ---
